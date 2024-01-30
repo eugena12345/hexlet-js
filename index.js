@@ -1,3 +1,3 @@
-import func from "./src";
+import func from './src';
 
 func();
