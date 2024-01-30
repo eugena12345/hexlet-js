@@ -1,4 +1,3 @@
-import _ from "lodash";
+import func from "./src";
 
-console.log("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+func();
